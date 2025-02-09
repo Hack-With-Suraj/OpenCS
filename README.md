@@ -61,3 +61,35 @@ OpenCS is more than just a curriculum—it’s a testament to the power of self-
 - 💰 Cost: Nearly all course materials are available for free. Some platforms (e.g., Coursera, edX) may charge for graded assignments, certifications, or exams, but financial aid options are available.
 
 📢 Final Thought: As OpenCS evolves, it will continue to empower self-learners worldwide, making world-class CS education accessible to everyone, for free. 🚀
+
+
+# Curriculum
+
+**Curriculum version**: `1.0.0`
+
+- [Prerequisites]()
+- [Phase 1: Foundations (Core CS)]()
+- [Phase 2: Specialization Exploration]()
+- [Phase 3: Focused Specialization (Deep Specialization)]()
+- [Phase 4: Mastery (Capstone/Research/Portfolio)]()
+
+---
+
+
+# **Phase 1: Foundations (Core CS)** 
+This Phase covers the essential knowledge and skills that all computer science graduates should possess. It's designed to provide a strong foundation in programming, algorithms, data structures, computer systems, and other core CS concepts.
+
+|  |  |
+| ----- | ----- |
+| **CS Core Field** | **Core Topics Covered** |
+| [**Programming & Software Development**](./Foundations/README.md) | Python, C++, Object-Oriented Programming, Software Engineering Principles |
+| **Algorithms & Data Structures** | Sorting, Searching, Recursion, Graph Algorithms, Dynamic Programming |
+| **Computer Systems & Architecture** | Computer Organization, Operating Systems, Memory Management, Parallel Computing |
+| **Databases & Data Management** | SQL, NoSQL, Database Design, Transactions, Indexing |
+| **Networks & Security** | TCP/IP, DNS, Cybersecurity Basics, Cryptography, Web Security |
+| **Mathematical Foundations** | Discrete Mathematics, Probability, Statistics, Linear Algebra |
+| **Theory of Computation** | Finite Automata, Turing Machines, Complexity Classes |
+| **Software Testing & DevOps** | Unit Testing, CI/CD, Containerization, Cloud Computing |
+
+✅ **Every student must complete the CS Core before moving to Path 2: Specialization Exploration.**
+

@@ -29,7 +29,7 @@ This curriculum follows the degree requirements of an undergraduate computer sci
 
 After OpenCS, learners will have knowledge and expertise equivalent to a full bachelor's degree in Computer Science, preparing them for industry roles, freelance work, research, and advanced studies.
 
-🚀 Inspired by[OSSU (Open Source Society University)](https://github.com/ossu) in [CS](https://github.com/ossu/computer-science) and [Mathematics](https://github.com/ossu/math), OpenCS follows a structured, progressive, and mastery-based approach, making world-class CS education accessible to all, for free.
+🚀 Inspired by [OSSU (Open Source Society University)](https://github.com/ossu) in [CS](https://github.com/ossu/computer-science) and [Mathematics](https://github.com/ossu/math), OpenCS follows a structured, progressive, and mastery-based approach, making world-class CS education accessible to all, for free.
 
 
 # 🚀 What is OpenCS?
@@ -82,7 +82,7 @@ This Phase covers the essential knowledge and skills that all computer science g
 |  |  |
 | ----- | ----- |
 | **CS Core Field** | **Core Topics Covered** |
-| [**Programming & Software Development**](./Foundations/README.md) | Python, C++, Object-Oriented Programming, Software Engineering Principles |
+| [**Module 1: Programming Fundamentals**](./Foundations/README.md#module-1-programming-fundamentals) | Python, C++, Object-Oriented Programming, Software Engineering Principles |
 | **Algorithms & Data Structures** | Sorting, Searching, Recursion, Graph Algorithms, Dynamic Programming |
 | **Computer Systems & Architecture** | Computer Organization, Operating Systems, Memory Management, Parallel Computing |
 | **Databases & Data Management** | SQL, NoSQL, Database Design, Transactions, Indexing |

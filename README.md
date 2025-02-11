@@ -83,13 +83,12 @@ This Phase covers the essential knowledge and skills that all computer science g
 | ----- | ----- |
 | **CS Core Field** | **Core Topics Covered** |
 | [**Module 1: Programming Fundamentals**](./Foundations/README.md#module-1-programming-fundamentals) | Python, C++, Object-Oriented Programming, Software Engineering Principles |
-| **Algorithms & Data Structures** | Sorting, Searching, Recursion, Graph Algorithms, Dynamic Programming |
-| **Computer Systems & Architecture** | Computer Organization, Operating Systems, Memory Management, Parallel Computing |
-| **Databases & Data Management** | SQL, NoSQL, Database Design, Transactions, Indexing |
-| **Networks & Security** | TCP/IP, DNS, Cybersecurity Basics, Cryptography, Web Security |
-| **Mathematical Foundations** | Discrete Mathematics, Probability, Statistics, Linear Algebra |
-| **Theory of Computation** | Finite Automata, Turing Machines, Complexity Classes |
-| **Software Testing & DevOps** | Unit Testing, CI/CD, Containerization, Cloud Computing |
+| [**Module 2: Mathematical Foundations**](./Foundations/README.md#module-2-mathematical-foundations) | Discrete Mathematics, Probability, Statistics, Linear Algebra |
+| [**Module 3: Foundational Systems**](./Foundations/README.md#module-3-foundational-systems) |  |
+| [**Module 4: Foundational Applications**](./Foundations/README.md#module-4-foundational-applications) |  |
+| [**Module 5: Fundamental Theory and Ethics**](./Foundations/README.md#module-5-fundamental-theory-and-ethics) |  |
+
+
 
 ✅ **Every student must complete the CS Core before moving to Path 2: Specialization Exploration.**
 

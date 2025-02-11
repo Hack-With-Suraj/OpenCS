@@ -1,24 +1,25 @@
-<div align="center">
-  <img src="./Img/OpenCS.jpg" alt="OpenCS logo" />  <h3>OpenCS</h3>
-  <p>Empowering the next generation of computer scientists, open to all, free for all.</p> <p>
-    <a href="https://github.com/NovaVerseOrg/OpenCS">
-      <img alt="NovaVerseOrg - OpenCS" src="https://img.shields.io/badge/NovaVerseOrg-OpenCS-blue.svg">
-    </a>
-  </p>
-</div>
+<h1 align="center">OpenCS: Empowering the next generation of computer scientists, open to all, free for all.</h1>
 
-# Contents
+  
+<p align="center">
+  <a href="[Link to website]">
+    <img src="./Img/OpenCS.jpg" alt="OpenCS logo" height="340" > </a>
+</p>
 
-- [Summary](#summary)
-- [What is OpenCS?](#what-is-opencs)  
-- [Goals of OpenCS](#goals-of-opencs)
-- [Key Features of OpenCS](#key-features-of-opencs)
-- [How to Use OpenCS](#how-to-use-opencs)
-- [Who is OpenCS For?](#who-is-opencs-for)
-- [Why OpenCS?](#why-opencs)
-- [Curriculum](#curriculum) 
-- [Prerequisites](#prerequisites) 
-# Summary
+<p align="center">
+ OpenCS is a comprehensive, open-source Computer Science curriculum designed for individuals seeking a deep, well-rounded understanding of fundamental computing concepts. 
+</p>
+
+<p align="center">
+  <a href="[Link to  website]">Go to Website ✨</a> ·
+  <a href="[Link to bug reporting system (e.g., GitHub Issues)]">Report a Bug 🐞</a> ·
+  <a href="[Link to contribution guidelines]">Contribute 🫶</a> ·
+  <a href="[Link to curriculum overview/page]">Curriculum 🎓</a>
+</p>
+
+---
+
+## About OpenCS
 
 OpenCS is a comprehensive, open-source Computer Science curriculum designed for individuals seeking a deep, well-rounded understanding of fundamental computing concepts. It is ideal for learners who are self-motivated, disciplined, and committed to pursuing a rigorous CS education independently, supported by a global community of fellow learners.  It is *not* simply career training or professional development, but a true academic pursuit.
 
@@ -32,9 +33,23 @@ Upon completion of OpenCS, learners will possess knowledge and expertise equival
 
 🚀 Inspired by [OSSU (Open Source Society University)](https://github.com/ossu) in [CS](https://github.com/ossu/computer-science) and [Mathematics](https://github.com/ossu/math), OpenCS follows a structured, progressive, and mastery-based approach, making world-class CS education accessible to all, for free.
 
-# What is OpenCS?
+## Contributing to OpenCS
 
-OpenCS is a living, evolving project within NovaVerseOrg, dedicated to building the most comprehensive, structured, and high-quality open-source Computer Science curriculum. Every course, topic, and resource included in OpenCS undergoes rigorous verification before being added, ensuring learners receive only the best and most effective educational materials.
+OpenCS is a Active Project of NovaVerseOrg, and we welcome contributions of all kinds! From documentation and UI/UX design to curriculum development, infrastructure improvements, and bug reports, every contribution is valued. Interested in contributing? Read our [Governance Model]() and explore the various ways you can [Get Involved]() with NovaVerseOrg!
+
+
+# Contents
+
+- [About OpenCS](#about-opencs)  
+- [Goals of OpenCS](#goals-of-opencs)
+- [Key Features of OpenCS](#key-features-of-opencs)
+- [How to Use OpenCS](#how-to-use-opencs)
+- [Who is OpenCS For?](#who-is-opencs-for)
+- [Why OpenCS?](#why-opencs)
+- [Curriculum](#curriculum) 
+- [Prerequisites](#prerequisites) 
+
+
 
 ## Goals of OpenCS
 
@@ -68,8 +83,6 @@ OpenCS is a living, evolving project within NovaVerseOrg, dedicated to building 
 OpenCS is more than just a curriculum—it’s a testament to the power of self-learning and open-source collaboration. By following this roadmap, learners can gain the equivalent knowledge of a full bachelor's degree in Computer Science, develop real-world expertise, and become industry-ready.
 
 *   💰 **Cost:** Nearly all course materials are available for free. Some platforms (e.g., Coursera, edX) may charge for graded assignments, certifications, or exams, but financial aid options are available.
-
-📢 **Final Thought:** As OpenCS evolves, it will continue to empower self-learners worldwide, making world-class CS education accessible to everyone, for free. 🚀
 
 # Curriculum
 

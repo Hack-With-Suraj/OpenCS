@@ -47,7 +47,6 @@ OpenCS is a Active Project of NovaVerseOrg, and we welcome contributions of all 
 - [Who is OpenCS For?](#who-is-opencs-for)
 - [Why OpenCS?](#why-opencs)
 - [Curriculum](#curriculum) 
-- [Prerequisites](#prerequisites) 
 
 
 

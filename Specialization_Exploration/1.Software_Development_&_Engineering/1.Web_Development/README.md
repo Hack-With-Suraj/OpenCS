@@ -40,7 +40,7 @@ This module is divided into three main sections: Frontend Development, Backend D
 
 | Courses                                                   | Description | Effort (Hours/Week) |  | Discussion |
 | :--------------------------------------------------------- | :---------- | :------------------ | :------------ | :--------- |
-| [**1. Frontend Development**](./Software_Development_&_Engineering/1.Web_Development/README.md) | Step by step guide to becoming a modern frontend developer in 2025 By Roadmap.sh | [Effort] | [Discussion] |
+| [**Frontend Development**](../1.Web_Development/Frontend_Web_Dev/README.md) | Step by step guide to becoming a modern frontend developer in 2025 By Roadmap.sh | [Effort] | [Discussion] |
 
 **2. Backend Development:**
 
@@ -52,9 +52,18 @@ This module is divided into three main sections: Frontend Development, Backend D
 * **Server Deployment:** Learn how to deploy backend applications on cloud platforms.
 * **Backend Testing:** Learn how to test and debug backend code.
 
+
+| Courses                                                   | Description | Effort (Hours/Week) |  | Discussion |
+| :--------------------------------------------------------- | :---------- | :------------------ | :------------ | :--------- |
+| [**Backend Development**](../1.Web_Development/Backend_Web_Dev/README.md) | Step by step guide to becoming a modern frontend developer in 2025 By Roadmap.sh | [Effort] | [Discussion] |
+
 **3. Full-Stack Development:**
 
 * **Integrating Frontend and Backend:** Learn how to connect frontend and backend applications.
 * **Full-Stack Frameworks:** Explore full-stack frameworks like MERN (MongoDB, Express.js, React, Node.js) or MEAN (MongoDB, Express.js, Angular, Node.js).
 * **Deployment and Maintenance:** Learn how to deploy and maintain full-stack applications.
 * **Project Development:** Build full-stack web applications to apply your knowledge.
+
+| Courses                                                   | Description | Effort (Hours/Week) |  | Discussion |
+| :--------------------------------------------------------- | :---------- | :------------------ | :------------ | :--------- |
+| [**Full-Stack Development**](../1.Web_Development/Fullstack_Web_Dev/README.md) | Step by step guide to becoming a modern frontend developer in 2025 By Roadmap.sh | [Effort] | [Discussion] |

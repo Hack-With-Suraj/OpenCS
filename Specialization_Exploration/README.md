@@ -1,4 +1,4 @@
-# Phase 2: Specialization Exploration - Chart Your Course
+# Phase 2: Specialization Exploration 
 
 Welcome to Phase **2: Specialization Exploration**, a pivotal stage in your OpenCS journey. This phase is designed to empower you with the freedom and knowledge to discover your true passions within the vast and dynamic world of computer science.
 
@@ -53,7 +53,7 @@ Explore the diverse world of software development and engineering. This section 
 4.  **Engage in Discussion:** Join the discussion forums for each course to ask questions and connect with fellow learners.
 5.  **Make Your Decision:** Once you've gathered all the information, decide which specialization(s) you want to pursue.
 
-**Courses:**
+
 
 | Courses                                                   | Description | Effort (Hours/Week) | Prerequisites | Discussion |
 | :--------------------------------------------------------- | :---------- | :------------------ | :------------ | :--------- |
@@ -66,53 +66,163 @@ Explore the diverse world of software development and engineering. This section 
 | [**7. DevOps (Development and Operations)**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
 | [**8. Cloud Computing (Software as a Service (SaaS) Development)**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
 
+# 2. Data & Analytics:
 
-2. Data & Analytics:
+Explore the diverse world of Data & Analytics. This section provides an overview of various fields, allowing you to discover your interests and choose the path that best suits your goals.
 
-Data Science: (Machine Learning, Statistical Analysis)
-Data Engineering: (Data Pipelines, Databases, Big Data)
-Business Intelligence (BI)
-Data Visualization
-Big Data Analytics
-3. Artificial Intelligence (AI) & Machine Learning (ML):
+**How to Use This Section:**
 
-Machine Learning Engineering
-Deep Learning
-Natural Language Processing (NLP)
-Computer Vision
-Robotics (AI-Focused)
-AI Ethics and Safety
-4. Systems & Networking:
+1.  **Browse Courses:** Review the courses listed below to get a basic understanding of each specialization.
+2.  **Explore Descriptions:** Read the course descriptions to learn more about the content and skills covered.
+3.  **Consider Effort and Prerequisites:** Evaluate the estimated effort and prerequisites to determine if a course is a good fit for your current skill level and time commitment.
+4.  **Engage in Discussion:** Join the discussion forums for each course to ask questions and connect with fellow learners.
+5.  **Make Your Decision:** Once you've gathered all the information, decide which specialization(s) you want to pursue.
 
-Operating Systems Development
-Network Engineering & Administration
-Distributed Systems
-Cloud Computing (Infrastructure as a Service (IaaS) and Platform as a Service (PaaS))
-Cybersecurity (Network Security, Systems Security)
-5. Cybersecurity:
 
-Ethical Hacking & Penetration Testing
-Cryptography
-Security Engineering
-Incident Response
-Digital Forensics
-6. Human-Computer Interaction (HCI) & Design:
 
-User Interface (UI) Design
-User Experience (UX) Design
-Accessibility Engineering
-Interaction Design
-7. Theoretical Computer Science:
+| Courses                                                   | Description | Effort (Hours/Week) | Prerequisites | Discussion |
+| :--------------------------------------------------------- | :---------- | :------------------ | :------------ | :--------- |
+| [**1. Data Science: (Machine Learning, Statistical Analysis)**](./Software_Development_&_Engineering/1.Web_Development/README.md) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**2. Data Engineering: (Data Pipelines, Databases, Big Data)**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**3. Business Intelligence (BI)**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**4. Data Visualization**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**5. Big Data Analytics**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
 
-Algorithms & Complexity Theory
-Programming Language Theory
-Formal Verification
-Quantum Computing
-8. Specialized Applications:
 
-Bioinformatics
-Computational Finance
-Scientific Computing
-Computational Graphics and Visualization
-Internet of Things (IoT)
-Blockchain Development
+# 3. Artificial Intelligence (AI) & Machine Learning (ML):
+
+Explore the diverse world of Artificial Intelligence (AI) & Machine Learning (ML). This section provides an overview of various fields, allowing you to discover your interests and choose the path that best suits your goals.
+
+**How to Use This Section:**
+
+1.  **Browse Courses:** Review the courses listed below to get a basic understanding of each specialization.
+2.  **Explore Descriptions:** Read the course descriptions to learn more about the content and skills covered.
+3.  **Consider Effort and Prerequisites:** Evaluate the estimated effort and prerequisites to determine if a course is a good fit for your current skill level and time commitment.
+4.  **Engage in Discussion:** Join the discussion forums for each course to ask questions and connect with fellow learners.
+5.  **Make Your Decision:** Once you've gathered all the information, decide which specialization(s) you want to pursue.
+
+
+
+| Courses                                                   | Description | Effort (Hours/Week) | Prerequisites | Discussion |
+| :--------------------------------------------------------- | :---------- | :------------------ | :------------ | :--------- |
+| [**1. Machine Learning Engineering**](./Software_Development_&_Engineering/1.Web_Development/README.md) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**2. Deep Learning**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**3. Natural Language Processing (NLP)**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**4. Computer Vision**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**5. Robotics (AI-Focused)**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**6. AI Ethics and Safety**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+
+
+
+# 4. Systems & Networking:
+
+Explore the diverse world of Systems & Networking. This section provides an overview of various fields, allowing you to discover your interests and choose the path that best suits your goals.
+
+**How to Use This Section:**
+
+1.  **Browse Courses:** Review the courses listed below to get a basic understanding of each specialization.
+2.  **Explore Descriptions:** Read the course descriptions to learn more about the content and skills covered.
+3.  **Consider Effort and Prerequisites:** Evaluate the estimated effort and prerequisites to determine if a course is a good fit for your current skill level and time commitment.
+4.  **Engage in Discussion:** Join the discussion forums for each course to ask questions and connect with fellow learners.
+5.  **Make Your Decision:** Once you've gathered all the information, decide which specialization(s) you want to pursue.
+
+
+
+| Courses                                                   | Description | Effort (Hours/Week) | Prerequisites | Discussion |
+| :--------------------------------------------------------- | :---------- | :------------------ | :------------ | :--------- |
+| [**1. Operating Systems Development**](./Software_Development_&_Engineering/1.Web_Development/README.md) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**2. Network Engineering & Administration**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**3. Distributed Systems**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**4. Cloud Computing (Infrastructure as a Service (IaaS) and Platform as a Service (PaaS))**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**5. Cybersecurity (Network Security, Systems Security)**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+
+# 5. Cybersecurity:
+
+Explore the diverse world of Cybersecurity. This section provides an overview of various fields, allowing you to discover your interests and choose the path that best suits your goals.
+
+**How to Use This Section:**
+
+1.  **Browse Courses:** Review the courses listed below to get a basic understanding of each specialization.
+2.  **Explore Descriptions:** Read the course descriptions to learn more about the content and skills covered.
+3.  **Consider Effort and Prerequisites:** Evaluate the estimated effort and prerequisites to determine if a course is a good fit for your current skill level and time commitment.
+4.  **Engage in Discussion:** Join the discussion forums for each course to ask questions and connect with fellow learners.
+5.  **Make Your Decision:** Once you've gathered all the information, decide which specialization(s) you want to pursue.
+
+
+
+| Courses                                                   | Description | Effort (Hours/Week) | Prerequisites | Discussion |
+| :--------------------------------------------------------- | :---------- | :------------------ | :------------ | :--------- |
+| [**1. Ethical Hacking & Penetration Testing**](./Software_Development_&_Engineering/1.Web_Development/README.md) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**2. Cryptography**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**3. Security Engineering**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**4. Incident Response**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**5. Digital Forensics**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+
+
+# 6. Human-Computer Interaction (HCI) & Design:
+
+Explore the diverse world of Human-Computer Interaction (HCI) & Design. This section provides an overview of various fields, allowing you to discover your interests and choose the path that best suits your goals.
+
+**How to Use This Section:**
+
+1.  **Browse Courses:** Review the courses listed below to get a basic understanding of each specialization.
+2.  **Explore Descriptions:** Read the course descriptions to learn more about the content and skills covered.
+3.  **Consider Effort and Prerequisites:** Evaluate the estimated effort and prerequisites to determine if a course is a good fit for your current skill level and time commitment.
+4.  **Engage in Discussion:** Join the discussion forums for each course to ask questions and connect with fellow learners.
+5.  **Make Your Decision:** Once you've gathered all the information, decide which specialization(s) you want to pursue.
+
+
+
+| Courses                                                   | Description | Effort (Hours/Week) | Prerequisites | Discussion |
+| :--------------------------------------------------------- | :---------- | :------------------ | :------------ | :--------- |
+| [**1. User Interface (UI) Design**](./Software_Development_&_Engineering/1.Web_Development/README.md) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**2. User Experience (UX) Design**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**3. Accessibility Engineering**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**4. Interaction Design**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+
+
+# 7. Theoretical Computer Science:
+
+Explore the diverse world of Theoretical Computer Science. This section provides an overview of various fields, allowing you to discover your interests and choose the path that best suits your goals.
+
+**How to Use This Section:**
+
+1.  **Browse Courses:** Review the courses listed below to get a basic understanding of each specialization.
+2.  **Explore Descriptions:** Read the course descriptions to learn more about the content and skills covered.
+3.  **Consider Effort and Prerequisites:** Evaluate the estimated effort and prerequisites to determine if a course is a good fit for your current skill level and time commitment.
+4.  **Engage in Discussion:** Join the discussion forums for each course to ask questions and connect with fellow learners.
+5.  **Make Your Decision:** Once you've gathered all the information, decide which specialization(s) you want to pursue.
+
+
+
+| Courses                                                   | Description | Effort (Hours/Week) | Prerequisites | Discussion |
+| :--------------------------------------------------------- | :---------- | :------------------ | :------------ | :--------- |
+| [**1. Algorithms & Complexity Theory**](./Software_Development_&_Engineering/1.Web_Development/README.md) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**2. Programming Language Theory**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**3. Formal Verification**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**4. Quantum Computing**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+
+
+# 8. Specialized Applications:
+
+Explore the diverse world of Specialized Applications. This section provides an overview of various fields, allowing you to discover your interests and choose the path that best suits your goals.
+
+**How to Use This Section:**
+
+1.  **Browse Courses:** Review the courses listed below to get a basic understanding of each specialization.
+2.  **Explore Descriptions:** Read the course descriptions to learn more about the content and skills covered.
+3.  **Consider Effort and Prerequisites:** Evaluate the estimated effort and prerequisites to determine if a course is a good fit for your current skill level and time commitment.
+4.  **Engage in Discussion:** Join the discussion forums for each course to ask questions and connect with fellow learners.
+5.  **Make Your Decision:** Once you've gathered all the information, decide which specialization(s) you want to pursue.
+
+
+
+| Courses                                                   | Description | Effort (Hours/Week) | Prerequisites | Discussion |
+| :--------------------------------------------------------- | :---------- | :------------------ | :------------ | :--------- |
+| [**1. Bioinformatics**](./Software_Development_&_Engineering/1.Web_Development/README.md) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**2. Computational Finance**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**3. Scientific Computing**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**4. Computational Graphics and Visualization**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**5. Internet of Things (IoT)**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+| [**6. Blockchain Development**](URL) | [Description] | [Effort]            | [Prerequisites] | [Discussion] |
+
